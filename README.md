@@ -2,7 +2,7 @@
 
 A high-fidelity botanical product landing page built for the frontend implementation test. This project focuses on a premium, dark-themed aesthetic with glassmorphic UI elements and smooth interactions.
 
-**Live Demo**: [View Live Project on Vercel](https://your-vercel-link-here.vercel.app)
+**Live Demo**: [View Live Project on Vercel](https://flora-vision-frontend-implementation-2lgxtgemm.vercel.app/)
 
 ## Tech Stack
 - **Framework**: [Next.js 15](https://nextjs.org) (App Router)
